@@ -1,0 +1,14 @@
+[
+ {"t": 4,  "model": "Gemini",   "kind": "decision", "role": "chase",    "detail": "closest to ball, going for it"},
+ {"t": 4,  "model": "Muse",   "kind": "decision", "role": "block",    "detail": "covering Jev sector"},
+ {"t": 4,  "model": "Jev 1.14", "kind": "decision", "role": "intercept","detail": "cutting the passing line"},
+ {"t": 21, "model": "Muse",   "kind": "goal",     "role": "chase",    "detail": "goal in Gemini sector"},
+ {"t": 38, "model": "Gemini",   "kind": "fall",     "role": "chase",    "detail": "tripped while turning"},
+ {"t": 52, "model": "Jev 1.14", "kind": "goal",     "role": "intercept","detail": "goal in Muse sector"},
+ {"t": 63, "model": "Gemini",   "kind": "decision", "role": "block",    "detail": "defending own goal"},
+ {"t": 78, "model": "Muse",   "kind": "goal",     "role": "chase",    "detail": "own goal in Muse sector"},
+ {"t": 90, "model": "Jev 1.14", "kind": "decision", "role": "chase",    "detail": "final seconds push"},
+ {"t": 12, "model": "Gemini",   "kind": "training_attempt", "role": "solo", "detail": "attempt 1: 38% of the way, fell at the turn"},
+ {"t": 34, "model": "Gemini",   "kind": "training_attempt", "role": "solo", "detail": "attempt 2: 71% of the way, stride +10%"},
+ {"t": 55, "model": "Gemini",   "kind": "training_attempt", "role": "solo", "detail": "attempt 3: reached the goal in 17.4s"}
+]
